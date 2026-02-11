@@ -6,13 +6,9 @@ I have ~8+ years developing scalable computational systems—from real-time mobi
 ## Research & Current Work
 My research interests are in applying novel machine learning to interesting problems. For this reason, I've enjoyed working in the genomics space, where large amounts of data abound. These projects require organization and deep understanding of complex biological systems; these are both challenging and rewarding problems.
 
-Here are a few of my projects:
-- [Temporal deconvolution for cell cycle chromatin analysis](https://github.com/HarteminkLab/cell-cycle-deconv/)
-- [Vision transformer models for gene expression prediction](https://github.com/HarteminkLab/chromatin-transformers)
-- [Chromatin and transcription dynamics under stress](https://github.com/HarteminkLab/cadmium-paper)
 
 ## Project samples
-For many of my projects, creating detailed, but clear figures are important. Here are a few samples.
+Here are a few of my projects. For many of my projects, creating detailed, but clear figures are important.
 
 ### [Temporal deconvolution for cell cycle chromatin analysis](https://github.com/HarteminkLab/cell-cycle-deconv/)
 A framework for deconvolving the cell cycle chromatin.
@@ -25,3 +21,7 @@ A vision transformer model to engineer features of the chromatin linked to gene 
 <div align="center">
 	<img src="https://github.com/HarteminkLab/chromatin-transformers/blob/main/figures/3_learned_attentions.jpg" width="70%"/>
 </div>
+
+
+### [A study of chromatin and transcriptional dynamics under cadmium stress](https://github.com/HarteminkLab/cadmium-paper)
+In this work, I analyze a time course of the effects of heavy metals stress on yeast. The strong transcriptional response informed a Gaussian process predictive model.
