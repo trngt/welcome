@@ -7,9 +7,9 @@ I have ~8+ years developing scalable computational systems—from real-time mobi
 My research interests are in applying novel machine learning to interesting problems. For this reason, I've enjoyed working in the genomics space, where large amounts of data abound. These projects require organization and deep understanding of complex biological systems; these are both challenging and rewarding problems.
 
 The projects in my doctoral degree involve the questions: How are genes regulated? and how does the chromatin state link to regulation? The chromatin state is a complex landscape of proteins, protein complexes, and factors that bind and interact with the DNA in a transient-state. So my work involves modeling and analyzing time courses where we measure the chromatin state and transcript level (measurement of gene expression).
-
+le 
 ### Project samples
-Here are a few of my projects. For my work, it is important to create detailed, but clear figures.
+Here are a few sample figures from these projects. Creating detailed, clear figures has been an enjoyable and important part of my work.
 
 ### [Temporal deconvolution for cell cycle chromatin analysis](https://github.com/HarteminkLab/cell-cycle-deconv/)
 A framework for deconvolving the cell cycle chromatin.
