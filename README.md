@@ -4,7 +4,7 @@ I am a CS PhD candidate at Duke University, advised under Alex Hartemink, specia
 I have ~8+ years developing scalable computational systems—from real-time mobile applications to advanced genomics frameworks.
 
 ## Research & Current Work
-My research interests are in applying novel machine learning to interesting problems. For this reason, I've enjoyed working in the genomics space, where large amounts of data abound. These projects require detailed focus and an understanding of complex biological systems. These are challenging and rewarding problems.
+My research interests are in applying novel machine learning to interesting problems. For this reason, I've enjoyed working in the genomics space, where large amounts of data abound. These projects require organization and deep understanding of complex biological systems; these are both challenging and rewarding problems.
 
 Here are a few of my projects:
 - [Temporal deconvolution for cell cycle chromatin analysis](https://github.com/HarteminkLab/cell-cycle-deconv/)
