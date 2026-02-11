@@ -12,7 +12,7 @@ Here are a few of my projects:
 - [Chromatin and transcription dynamics under stress](https://github.com/HarteminkLab/cadmium-paper)
 
 ## Project samples
-I am a visual learner. So, for many of my projects, creating clear figures are important. Below are a few samples.
+For many of my projects, creating detailed, but clear figures are important. Here are a few samples.
 
 ### [Temporal deconvolution for cell cycle chromatin analysis](https://github.com/HarteminkLab/cell-cycle-deconv/)
 A framework for deconvolving the cell cycle chromatin.
