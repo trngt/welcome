@@ -17,7 +17,7 @@ I am a visual learner. So, for many of my projects, creating clear figures are i
 ### [Temporal deconvolution for cell cycle chromatin analysis](https://github.com/HarteminkLab/cell-cycle-deconv/)
 A framework for deconvolving the cell cycle chromatin.
 <div align="center">
-	<img src="[https://github.com/HarteminkLab/chromatin-transformers/blob/main/figures/1_model_architecture.jpg](https://github.com/HarteminkLab/cell-cycle-deconv/blob/develop/figures/Figure1_Deconvolution.jpg)" width="70%"/>
+	<img src="https://github.com/HarteminkLab/cell-cycle-deconv/blob/develop/figures/Figure1_Deconvolution.jpg" width="70%"/>
 </div>
 
 ### [Vision transformer models for gene expression prediction](https://github.com/HarteminkLab/chromatin-transformers)
