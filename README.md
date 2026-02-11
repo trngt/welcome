@@ -8,7 +8,7 @@ My research interests are in applying novel machine learning to interesting prob
 
 
 ## Project samples
-Here are a few of my projects. For many of my projects, creating detailed, but clear figures are important.
+Here are a few of my projects. For my work, it is important to create detailed, but clear figures.
 
 ### [Temporal deconvolution for cell cycle chromatin analysis](https://github.com/HarteminkLab/cell-cycle-deconv/)
 A framework for deconvolving the cell cycle chromatin.
