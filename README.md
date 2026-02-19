@@ -8,7 +8,7 @@ My research interests are in applying novel machine learning to interesting prob
 
 The projects in my doctoral degree involve the questions: How are genes regulated? and how does the chromatin state link to regulation? The chromatin state is a complex landscape of proteins, protein complexes, and factors that bind and interact with the DNA in a transient-state. So my work involves modeling and analyzing time courses where we measure the chromatin state and transcript level (measurement of gene expression).
 
-### Research project examples
+## Research project examples
 Here are a few sample figures from these projects. Creating detailed, clear figures has been an enjoyable and important part of my work.
 
 ### [Temporal deconvolution for cell cycle chromatin analysis](https://github.com/HarteminkLab/cell-cycle-deconv/)
@@ -27,7 +27,7 @@ A vision transformer model to engineer features of the chromatin linked to gene 
 ### [A study of chromatin and transcriptional dynamics under cadmium stress](https://github.com/HarteminkLab/cadmium-paper)
 In this work, I analyze a time course of the effects of heavy metals stress on yeast. The strong transcriptional response informed a Gaussian process predictive model.
 
-### Personal project examples
+## Personal project examples
 I also have a smaller personal projects. I am generally interested in applying my technical skills to personal development and health projects.
 
 ### [Habit Tracking OCR](https://github.com/trngt/habit-tracker-ocr)
